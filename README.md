@@ -1,12 +1,12 @@
 # Ultraist
 
-Ultraist is a platform for managing product requirements — connecting specs directly to the real, running product instead of letting them drift apart in documents.
+Ultraist is building a suite of tools for software development teams. We're starting with **Reqs**.
 
-Requirements live alongside visual overlays on actual screenshots of your app, so what's specified and what's shipped stay in sync and everyone — product, design, and engineering — is looking at the same source of truth.
+## Reqs
 
-## What we're building
+Reqs is an evolution of requirements management. Requirements are versioned and stored in place — tracked through their full lifecycle, from draft through implementation to archival — instead of scattered across documents that drift out of sync with what actually ships.
 
-- **Reqs** — Requirements management with live overla~~~~ys on real application screenshots, keeping specs grounded in the actual product.
+Requirements live alongside visual overlays on actual screenshots of your app, so what's specified and what's shipped stay in sync, and product, design, and engineering are all looking at the same source of truth.
 
 ## Get involved
 
